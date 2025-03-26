@@ -1,0 +1,111 @@
+{
+    "navigation": {
+        "items": [
+            {
+                "name": "Home",
+                "path": "/",
+                "icon": "Home"
+            },
+            {
+                "name": "About",
+                "path": "/about",
+                "icon": "User"
+            },
+            {
+                "name": "Projects",
+                "path": "/projects",
+                "icon": "Briefcase"
+            },
+            {
+                "name": "Listening",
+                "path": "/listening",
+                "icon": "Music"
+            }
+        ]
+    },
+    "home": {
+        "updates": [
+            {
+                "icon": "Briefcase",
+                "title": "Software Engineer at Fair Square",
+                "description": "Build growth experiments, a custom CRM, Plaid for Medicare brokerages, call analysis platform, and AI voice bots.",
+                "date": "September 2022"
+            },
+            {
+                "icon": "Briefcase",
+                "title": "Joined Dime (YC S21) as first hire",
+                "description": "Full-stack engineer, helped build initial product.",
+                "date": "September 2021"
+            },
+            {
+                "icon": "Briefcase",
+                "title": "Started Ivy",
+                "description": "Founded a music sharing platform that grew to thousands of users.",
+                "date": "Summer 2020"
+            }
+        ],
+        "features": [],
+        "intro": {
+            "title": "Yo",
+            "description": "My name is Sam Nordale, and this is my website."
+        },
+        "tips": []
+    },
+    "about": {
+        "intro": {
+            "title": "About",
+            "description": "I'm a full-stack software engineer based in Brooklyn, NY. I've worked on everything from consumer apps, to AI voice agents, to web automations, to machine learning."
+        },
+        "sections": [
+            {
+                "title": "Background",
+                "content": "I grew up in Seattle and graduated from McGill in 2020. I did a few design internships and took a bunch of CS theory, which helped me realize I want to make things instead."
+            },
+            {
+                "title": "Off the Court",
+                "content": "When I'm not coding, you can find me playing basketball, climbing, or reading. I also enjoy working on side projects."
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "Fair Square",
+            "description": "Build growth experiments, a custom CRM, Plaid for Medicare brokerages, call analysis platform, and AI voice agents.",
+            "tags": [
+                "Full-stack",
+                "Healthcare"
+            ],
+            "link": "https://fairsquaremedicare.com"
+        },
+        {
+            "title": "Dime",
+            "description": "First hire after YC, worked closely with founder to build initial product.",
+            "tags": [
+                "Full-stack",
+                "Product Design", 
+                ""
+            ],
+            "link": "https://dime.io"
+        },
+        {
+            "title": "Ivy",
+            "description": "A music sharing platform that connects music enthusiasts, allowing them to discover and share their favorite tracks.",
+            "tags": [
+                "Full-stack",
+                "Music",
+                "Web Development"
+            ],
+            "link": "https://theivyplatform.com"
+        },
+        {
+            "title": "CalvinB0t",
+            "description": "A Twitter bot that posts daily Calvin and Hobbes comics, bringing nostalgia and joy to followers.",
+            "tags": [
+                "Twitter API",
+                "Automation",
+                "JavaScript"
+            ],
+            "link": "https://x.com/CalvinB0t"
+        }
+    ]
+}
